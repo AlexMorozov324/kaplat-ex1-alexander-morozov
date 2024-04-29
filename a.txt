@@ -1,1 +1,2 @@
 This is some content in a.txt
+Another content in a.txt
