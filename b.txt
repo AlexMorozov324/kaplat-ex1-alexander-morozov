@@ -1,1 +1,2 @@
 This is some content in b.txt
+some data
